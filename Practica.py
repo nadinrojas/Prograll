@@ -13,3 +13,9 @@ def menor(A, B, C):
 # Función que retorna el maximo de tres valores
 def max(A, B, C):
     return max(A, B, C)
+
+
+
+# Función que retorna el maximo de tres valores
+def max(A, B, C):
+    return max(A, B, C)
