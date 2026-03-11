@@ -19,3 +19,8 @@ def max(A, B, C):
 # Función que retorna el maximo de tres valores
 def max(A, B, C):
     return max(A, B, C)
+
+
+# Función que retorna el resta
+def resta(A, B, C):
+    return resta (A, B, C)
